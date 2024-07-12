@@ -1,5 +1,3 @@
 # momo-test-bot
 
-one two three four s
-s
-s
+one two three four sz
